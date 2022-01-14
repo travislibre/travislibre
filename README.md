@@ -1,7 +1,19 @@
-- 👋 Hi, I’m Travis Libre, a student at Texas Tech.
-- 🌱 I’m currently learning Assembly & C.
-- 💞️ I’m looking to collaborate on Obsidian-related repositories and game mods!
-- 📫 Contact me @ travisjlibre@gmail.com
+    .                  .-.    .  _   *     _   .
+           *          /   \     ((       _/ \       *    .
+         _    .   .--'\/\_ \     `      /    \  *    ___
+     *  / \_    _/ ^      \/\'__        /\/\  /\  __/   \ *
+       /    \  /    .'   _/  /  \  *' /    \/  \/ .`'\_/\   .
+  .   /\/\  /\/ :' __  ^/  ^/    `--./.'  ^  `-.\ _    _:\ _
+     /    \/  \  _/  \-' __/.' ^ _   \_   .'\   _/ \ .  __/ \
+   /\  .-   `. \/     \ / -.   _/ \ -. `_/   \ /    `._/  ^  \
+  /  `-.__ ^   / .-'.--'    . /    `--./ .-'  `-.  `-. `.  -  `.
+@/        `.  / /      `-.   /  .-'   / .   .'   \    \  \  .-  \%
+@&8jgs@@%% @)&@&(88&@.-_=_-=_-=_-=_-=_.8@% &@&&8(8%@%8)(8@%8 8%@)%
+@88:::&(&8&&8:::::%&`.~-_~~-~~_~-~_~-~~=.'@(&%::::%@8&8)::&#@8::::
+`::::::8%@@%:::::@%&8:`.=~~-.~~-.~~=..~'8::::::::&@8:::::&8:::::'
+ `::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.'
+ 
+ it's travis :)!
 
 <!---
 travislibre/travislibre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
