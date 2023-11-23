@@ -13,7 +13,7 @@
     `::::::8%@@%:::::@%&8:`.=~~-.~~-.~~=..~'8::::::::&@8:::::&8:::::'
      `::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.'
  
- it's travis :)!
+ it's travis B)!
 
 <!---
 travislibre/travislibre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
